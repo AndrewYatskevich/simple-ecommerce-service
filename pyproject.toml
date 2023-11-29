@@ -8,6 +8,7 @@ packages = [{include = "simple_ecommerce_service"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-dotenv = "^1.0.0"
 django = "4.2.7"
 
 
